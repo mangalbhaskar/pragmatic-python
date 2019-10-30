@@ -11,3 +11,17 @@ This book aims to save your time by providing a code snippet to different proble
 In the e-book format the hyperlinks enables to you look at the detailed explanations over the internet.
 How ‘not’ to use this book? Do not just ‘read the book’ rather it’s meant to ‘do the book’.
 How to use this book? You need to write the code and work along. The ‘Getting Started’ section let you setup your learning python environment in less then 10 minutes.
+
+
+* Level-1 Beginners
+  * Chapter-1: Syntax, Indentation, Comments, Identifier, Variable, Object Oriented Programming (OOP), Datatype, Statement and expression, Operators
+  * Chapter-2: Functions, Data types and Data structures, Files
+* Level-2 Intermediates
+  * Module, Classes, Methods, Iterators, Decorators, Generators
+* Level-3 Advance
+  * Decorators, Design Patterns
+  * DevOps
+* Level-4 Web and Database
+  * Web framework, Database
+* Level-5 Contextual
+  * Image Processing, Computer Vision, GIS, Deep learning
